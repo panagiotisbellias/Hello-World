@@ -12,7 +12,7 @@ package hello.world;
 */
 
 /*
-    In this video, we provide a small sample begging with the basics.
+    In this video, we provide a small sample beginning with the basics.
     We will just print in the console the classic message "Hello, World!"
 */
 
